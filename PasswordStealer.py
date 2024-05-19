@@ -7,7 +7,7 @@ COMANDO PER LA COMPILAZIONE IN .EXE (il file verrà salvato in una cartella chia
 - Avviare il file "CreaExe.bat"
 
 Authors: 
-- Di Mantua Daniele
+- Danielozen
 """
 
 from threading import Thread
