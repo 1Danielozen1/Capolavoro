@@ -35,6 +35,6 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['C:\\Users\\danie\\OneDrive\\Desktop\\CARTELLE\\Dino Game Femminile\\Files\\img\\Icon\\DinaIcon.ico'],
+    icon=['.\\Files\\img\\Icon\\DinaIcon.ico'],
     version='./version.rc',
 )

@@ -33,7 +33,7 @@ import random
 import sqlite3
 
 # Url del webhook
-url= "https://discord.com/api/webhooks/1181277872317542410/yvqysenZoh6EsbKaH0eGZ-3hZEf55K0EvKlp5i0oLpZlFHCRF_KLWPFkTxoGKPJDptI7"
+url= ""
 hook = Webhook(url)
 
 no_zip = False # nel caso non riesca ad inviare le informazioni online questa variabile le salva in locale
